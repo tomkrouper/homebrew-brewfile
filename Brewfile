@@ -51,6 +51,7 @@ mas '1Password', id: 443987910
 mas 'Amphetamine', id: 937984704
 #mas 'Batman Arkham Asylum', id: 469363039
 #mas 'Comic Life 3', id: 688953417
+mas 'Day One', id: 1055511498
 #mas 'Evernote', id: 406056744
 #mas 'GarageBand', id: 682658836
 mas 'Gemini', id: 463541543
