@@ -70,9 +70,9 @@ mas "Linkinus", id: 402390998
 mas "Magnet", id: 441258766
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
-mas "Paste", id: 967805235 
+mas "Paste", id: 967805235
 mas "Plants vs. Zombies", id: 410406848
-mas "Skitch", id: 425955336 
+mas "Skitch", id: 425955336
 mas "Slack", id: 803453959
 #mas "Star Wars The Force Unleashed", id: 515003911
 mas "The Unarchiver", id: 425424353
