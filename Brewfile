@@ -12,6 +12,7 @@ brew "bash-completion"
 brew "coreutils"
 brew "cowsay"
 brew "dos2unix"
+brew "exa"
 brew "figlet"
 brew "git"
 brew "gnu-sed", args: ["with-default-names"]
