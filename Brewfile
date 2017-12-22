@@ -14,6 +14,7 @@ brew "cowsay"
 brew "dos2unix"
 brew "exa"
 brew "figlet"
+brew "findutils", args: ["--with-default-names"]
 brew "git"
 brew "gnu-sed", args: ["with-default-names"]
 brew "go"
