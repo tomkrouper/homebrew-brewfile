@@ -11,7 +11,7 @@ brew "bash-completion"
 brew "coreutils"
 brew "cowsay"
 brew "dos2unix"
-brew "exa"
+#brew "exa"
 brew "figlet"
 brew "findutils", args: ["--with-default-names"]
 brew "git"
@@ -37,14 +37,14 @@ brew "wget"
 cask "1password-cli"
 cask "atom"
 cask "audiobook-builder"
-cask "banktivity"
+#cask "banktivity"
 cask "calibre"
 cask "doxie"
 cask "dropbox"
 cask "encryptme"
 cask "font-hack"
 cask "font-source-code-pro-for-powerline"
-cask "fork"
+#cask "fork"
 cask "github"
 cask "google-chrome"
 cask "iterm2"
@@ -54,13 +54,13 @@ cask "steam"
 cask "transmission"
 cask "vlc"
 cask "xquartz"
-cask "zoomus"
+#cask "zoomus"
 mas "1Password", id: 443987910
 mas "Amphetamine", id: 937984704
 #mas "Batman Arkham Asylum", id: 469363039
 #mas "Comic Life 3", id: 688953417
-mas "Day One", id: 1055511498
-mas "Evernote", id: 406056744
+#mas "Day One", id: 1055511498
+#mas "Evernote", id: 406056744
 #mas "GarageBand", id: 682658836
 mas "Gemini", id: 463541543
 #mas "Grand Theft Auto - San Andreas", id: 424725622
@@ -72,7 +72,7 @@ mas "Kindle", id: 405399194
 #mas "LEGO Harry Potter Years 1-4", id: 411279622
 #mas "LEGO Star Wars Saga", id: 422055550
 #mas "LEGOHarry2", id: 494565420
-mas "Linkinus", id: 402390998
+#mas "Linkinus", id: 402390998
 mas "Magnet", id: 441258766
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
