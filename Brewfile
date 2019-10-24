@@ -1,7 +1,4 @@
 tap "caskroom/cask"
-tap "caskroom/drivers"
-tap "caskroom/fonts"
-tap "homebrew/boneyard"
 tap "homebrew/bundle"
 tap "homebrew/core"
 tap "homebrew/services"
@@ -39,12 +36,10 @@ cask "1password-cli"
 cask "atom"
 cask "audiobook-builder"
 cask "calibre"
-cask "doxie"
 cask "dropbox"
 cask "encryptme"
 cask "font-hack"
 cask "font-source-code-pro-for-powerline"
-#cask "fork"
 cask "github"
 cask "google-chrome"
 cask "handbrake"
@@ -56,6 +51,7 @@ cask "transmission"
 cask "vlc"
 cask "xquartz"
 cask "zoomus"
+
 mas "1Password 7", id: 1333542190
 mas "Amphetamine", id: 937984704
 mas "Gemini", id: 463541543
