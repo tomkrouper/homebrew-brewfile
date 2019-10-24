@@ -45,7 +45,6 @@ cask "google-chrome"
 cask "handbrake"
 cask "iterm2"
 cask "keybase"
-cask "overdrive-media-console"
 cask "steam"
 cask "transmission"
 cask "vlc"
@@ -61,7 +60,6 @@ mas "Magnet", id: 441258766
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Paste", id: 967805235
-mas "Plants vs. Zombies", id: 410406848
 mas "Skitch", id: 425955336
 mas "Slack", id: 803453959
 mas "The Unarchiver", id: 425424353
